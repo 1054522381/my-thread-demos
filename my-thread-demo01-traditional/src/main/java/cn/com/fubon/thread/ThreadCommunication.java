@@ -3,7 +3,7 @@ package cn.com.fubon.thread;
 /**
  * 笔试题： 子线程执行10次后切换至主线程执行100次，如此循环50次。
  */
-public class TraditionalThreadCommunication {
+public class ThreadCommunication {
 
 	public static void main(String[] args) {
 
